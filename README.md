@@ -1,6 +1,6 @@
 # canfd_breakout
  
-Small footprint can-fd breakout board.
+Small footprint can-fd breakout board. Mainly used 0805 smd parts.
 Arduino libray acan2517fd works well.
 
 https://github.com/pierremolinaro/acan2517FD
